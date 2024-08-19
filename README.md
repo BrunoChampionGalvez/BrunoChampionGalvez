@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Champion</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 
-- 🔭 I’m currently working on **Companion App**
+- 🔭 I’m currently working on **Companion App** at [https://github.com/BrunoChampionGalvez/Companion](https://github.com/BrunoChampionGalvez/Companion)
 
 - 🌱 I’m currently learning **Next.js, TailwindCSS**
 
-- 👯 I’m looking to collaborate on **Companion App**
+- 👯 I’m looking to collaborate on **Companion App** at [https://github.com/BrunoChampionGalvez/Companion](https://github.com/BrunoChampionGalvez/Companion)
 
 - 💬 Ask me about **Express.js, NestJS, React.js, TypeScript, Redux.js, TypeORM and PostgreSQL**
 
