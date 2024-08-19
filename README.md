@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Companion App** at [https://github.com/BrunoChampionGalvez/Companion](https://github.com/BrunoChampionGalvez/Companion)
 
-- 🌱 I’m currently learning **Next.js, TailwindCSS**
+- 🌱 I’m currently diving more into **React.js, TailwindCSS**
 
 - 👯 I’m looking to collaborate on **Companion App** at [https://github.com/BrunoChampionGalvez/Companion](https://github.com/BrunoChampionGalvez/Companion)
 
