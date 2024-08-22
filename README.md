@@ -8,7 +8,7 @@
 <p align="justify">With my experience in team work, I've realized that feedback is an essential part of a team's progress and development 🚀. With me, you will get someone that is eager to recieve feedback and wants to give it back too 😃! That is what I look for in a job.</p>
 
 <h4>What technologies I use?</h4>
-<p align="justify">The techonologies that I work with are NestJS, Express.js, TypeORM, PostgreSQL, Mongoose, MongoDB, TypeScript, React.js and CSS. I hope I can contribute in some of your projects implementing some of them.</p>
+<p align="justify">The techonologies that I work with are NestJS, Express.js, TypeORM, PostgreSQL, Mongoose, MongoDB, TypeScript, React.js and CSS. I hope I can contribute in some of your projects implementing these.</p>
 
 <h4>Contact me 😃</h4>
 <p align="justify">Feel free to contact me if you want to work with me. I will be happy to hear from you 🙌!</p>
