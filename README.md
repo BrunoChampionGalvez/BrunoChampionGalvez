@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Champion</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 
-<p align="justify">In the past year, I've discovered something that really drives me, that allows me to critically think and find solutions, and that makes me want to spend hours upon hours working on it, **programming** 💻. It all started as the idea of building personal projects with technologies like HTML, CSS and JavaScript; but then it developed into a series of ways of solving technological problems.</p>
+<p align="justify">In the past year, I've discovered something that really drives me, that allows me to critically think and find solutions, and that makes me want to spend hours upon hours working on it, programming 💻. It all started as the idea of building personal projects with technologies like HTML, CSS and JavaScript; but then it developed into a series of ways of solving technological problems.</p>
   
 <p align="justify">With my experience in team work, I've realized that feedback is an essential part of a team's progress and development 🚀. With me, you will get someone that is eager to recieve feedback and wants to give it back too 😃!</p>
 
