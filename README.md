@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bruno Champion</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 
+<p align="justify">In the past year, I've discovered something that really drives me, that allows me to critically think and find solutions, and that makes me want to spend hours upon hours working on it, **programming** 💻. It all started as the idea of building personal projects with technologies like HTML, CSS and JavaScript; but then it developed into a series of ways of solving technological problems.</p>
+  
+<p align="justify">With my experience in team work, I've realized that feedback is an essential part of a team's progress and development 🚀. With me, you will get someone that is eager to recieve feedback and wants to give it back too 😃!</p>
+
+<p align="justify">The techonologies that I work with are NestJS, Express.js, TypeORM, PostgreSQL, Mongoose, MongoDB, TypeScript, React.js and CSS. I hope I can contribute in some of your projects implementing some of them.</p>
+
+<p align="justify">Feel free to contact me if you want to work with me. I hope to hear from you 🙌!</p>
+
+<p>Email: brunochampiongalvez@gmail.com</p>
+<p>LinkedIn: www.linkedin.com/in/bruno-champion-gálvez-427aba188</p>
+
 - 🔭 I’m currently working on **Companion App** at [https://github.com/BrunoChampionGalvez/Companion](https://github.com/BrunoChampionGalvez/Companion)
 
 - 🌱 I’m currently diving more into **React.js, TailwindCSS**
