@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bruno Champion</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 
+<h4>How I ended up where I am now?</h4>
 <p align="justify">In the past year, I've discovered something that really drives me, that allows me to critically think and find solutions, and that makes me want to spend hours upon hours working on it, programming 💻. It all started as the idea of building personal projects with technologies like HTML, CSS and JavaScript; but it then developed into a series of ways of solving different technological problems.</p>
-  
-<p align="justify">With my experience in team work, I've realized that feedback is an essential part of a team's progress and development 🚀. With me, you will get someone that is eager to recieve feedback and wants to give it back too 😃!</p>
 
+<h4>What I look for in a team?</h4>
+<p align="justify">With my experience in team work, I've realized that feedback is an essential part of a team's progress and development 🚀. With me, you will get someone that is eager to recieve feedback and wants to give it back too 😃! That is what I look for in a job.</p>
+
+<h4>What technologies I use?</h4>
 <p align="justify">The techonologies that I work with are NestJS, Express.js, TypeORM, PostgreSQL, Mongoose, MongoDB, TypeScript, React.js and CSS. I hope I can contribute in some of your projects implementing some of them.</p>
 
+<h4>Contact me 😃</h4>
 <p align="justify">Feel free to contact me if you want to work with me. I will be happy to hear from you 🙌!</p>
 
 <p>Email: brunochampiongalvez@gmail.com</p>
